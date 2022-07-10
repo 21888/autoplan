@@ -5,7 +5,7 @@
 
 如果觉得好用，点个**star**吧
 
-### 开源地址
+### 原作者地址
 [wyt1215819315 / autoplan](https://github.com/wyt1215819315/autoplan)
 
 ### 目前已经实现
